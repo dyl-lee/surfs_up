@@ -16,11 +16,11 @@ Oahu weather data was queried to provide insight for investors of a surf and ice
 ### Highlights
 * On average, June (average temperature: 74°F) is slightly warmer than December (average temperature: 71°F).
 * Extreme temperatures (min, max) for June and December appear to follow the trend of averages, slightly warmer in June than December. 
-<picture>
+
 * June has more temperature data points than December (1700 points vs. 1517 points, respectively).
 
 ## Summary
-In summary, temperature data for 2 months of the year do not lend enough information for action. If the point of the analysis is to assess sustainability of the business around the year, the analysis should consider metrics important to surfers and tourists who would be the primary target audiences for this business. To supplement this, I would perform the following additional queries:
-* Retrieve important surf metrics such as surf height, tide height, wind speed and direction, swell locations
-* Retrieve metrics non-surf tourists would consider such as UV index, humidity, 
-* Perform analyses on all months instead of just two months to provide more accurate yearly trends.
+In summary, temperature data for 2 months of the year as in the initial analysis do not lend enough information for action. If the aim of the analysis is to assess sustainability of the business around the year, the analysis should consider more metrics important to surfers and tourists who would be the primary target audiences for this business, the more favorable the conditions the more likely this location will have traffic. To supplement this, I would perform the following additional queries:
+* Perform analyses on all months instead of only two months to provide more accurate yearly trends.
+* Retrieve metrics surfers would consider such as surf height, tide height, wind speed and direction, swell locations
+* Retrieve metrics non-surf tourists would consider such as UV index and simple weather descriptions like 'sunny' or 'overcast'.
