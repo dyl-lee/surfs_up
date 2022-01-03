@@ -16,7 +16,8 @@ Oahu weather data was queried to provide insight for investors of a surf and ice
 ### Highlights
 * On average, June (average temperature: 74°F) is slightly warmer than December (average temperature: 71°F).
 * Extreme temperatures (min, max) for June and December appear to follow the trend of averages, slightly warmer in June than December. 
-
+![june_temps](Resources/june_temps.png)
+![dec_temps](Resources/dec_temps.png)
 * June has more temperature data points than December (1700 points vs. 1517 points, respectively).
 
 ## Summary
