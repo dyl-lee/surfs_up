@@ -1,7 +1,7 @@
 # surfs_up
 
 ## About this project
-Oahu weather data was queried to provide insight for investors of a surf and ice cream shop business on whether it would be sustainable year-round. 
+Oahu weather data, for June and December, was queried to provide insight for investors of a surf and ice cream shop business on whether it would be sustainable year-round. 
 
 ## Resources
 ### Data sources
